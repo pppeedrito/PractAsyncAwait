@@ -1,0 +1,11 @@
+c:\users\sr_pedro\documents\visual studio 2015\Projects\PractAsyncAwait\PractAsyncAwait\bin\Debug\PractAsyncAwait.exe.config
+c:\users\sr_pedro\documents\visual studio 2015\Projects\PractAsyncAwait\PractAsyncAwait\obj\Debug\PractAsyncAwait.csprojResolveAssemblyReference.cache
+c:\users\sr_pedro\documents\visual studio 2015\Projects\PractAsyncAwait\PractAsyncAwait\obj\Debug\PractAsyncAwait.Form1.resources
+c:\users\sr_pedro\documents\visual studio 2015\Projects\PractAsyncAwait\PractAsyncAwait\obj\Debug\PractAsyncAwait.Properties.Resources.resources
+c:\users\sr_pedro\documents\visual studio 2015\Projects\PractAsyncAwait\PractAsyncAwait\obj\Debug\PractAsyncAwait.csproj.GenerateResource.Cache
+c:\users\sr_pedro\documents\visual studio 2015\Projects\PractAsyncAwait\PractAsyncAwait\bin\Debug\PractAsyncAwait.exe
+c:\users\sr_pedro\documents\visual studio 2015\Projects\PractAsyncAwait\PractAsyncAwait\bin\Debug\PractAsyncAwait.pdb
+c:\users\sr_pedro\documents\visual studio 2015\Projects\PractAsyncAwait\PractAsyncAwait\bin\Debug\Newtonsoft.Json.dll
+c:\users\sr_pedro\documents\visual studio 2015\Projects\PractAsyncAwait\PractAsyncAwait\bin\Debug\Newtonsoft.Json.xml
+c:\users\sr_pedro\documents\visual studio 2015\Projects\PractAsyncAwait\PractAsyncAwait\obj\Debug\PractAsyncAwait.exe
+c:\users\sr_pedro\documents\visual studio 2015\Projects\PractAsyncAwait\PractAsyncAwait\obj\Debug\PractAsyncAwait.pdb
